@@ -1,0 +1,39 @@
+body{
+    background-color: #F6E6CB;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h1{
+    color: lightcoral;
+    font-size: 45px ;
+}
+h3{
+    font-size: 35px;
+    color: rgba(0, 26, 255, 0.568);
+}
+p{
+    font-size: 20px;
+    color: #1900ff;
+}
+input{
+    background-color: #A0937D;
+    color: white;
+    padding:  15px 20px 15px 20px;
+    border-radius: 5%;
+    border: none;
+    font-size: 15px;
+    margin-top: 10px;
+}
+input:hover {
+    background-color: #7d715d;
+    transition: 0.3s;
+}
+img{
+    border-radius: 15px;
+}
+
+
+/* #A0937D
+#E7D4B5
+#F6E6CB
+#B6C7AA */
